@@ -1,4 +1,4 @@
-#Minimal Node - Babel Boilerplate
+##Minimal Node - Babel Boilerplate
 
 Supports most modern JavaScript. If something doesn't work check if there is a babel plugin for it. 
 
